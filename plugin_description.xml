@@ -1,0 +1,9 @@
+<library path="lib/libconv_interface_rviz">
+  <class name="conv_interface_rviz/CI_Panel"
+         type="conv_interface_rviz::CI_Panel"
+         base_class_type="rviz::Panel">
+    <description>
+      A panel widget allowing for discussion with LLM model and displaying it.
+    </description>
+  </class>
+</library>
